@@ -1,4 +1,4 @@
-package com.example.recyclerviewdatabindingexample1.viewcontrollers
+package com.example.recyclerviewdatabindingexample1.viewcontrollers.viewcontrollers
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import com.example.recyclerviewdatabindingexample1.R
 import com.example.recyclerviewdatabindingexample1.databinding.ActivityMainBinding
 import com.example.recyclerviewdatabindingexample1.viewcontrollers.adapters.MainActivityRecyclerViewAdapter

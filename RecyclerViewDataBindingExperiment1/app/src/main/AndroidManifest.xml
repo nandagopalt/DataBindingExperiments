@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RecyclerViewDataBindingExample1">
         <activity
-            android:name=".viewcontrollers.MainActivity"
+            android:name="viewcontrollers.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
